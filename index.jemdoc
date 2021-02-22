@@ -1,0 +1,139 @@
+# jemdoc: title{Min Zhang's Homepage (Westlake University)} 
+= Min Zhang @ MiLAB Group
+
+~~~
+{}{img_left}{./images/zhangmin_life.jpg}{zhangmin_life.jpg}{240}{307}{zhangmin_life.jpg}
+*{{<font size="+3" face="Times New Roman">Min Zhang</font>}} {{<font size="+3" face="华文行楷">(张敏)</font>}}* \n {{<font size="+2" face="Times New Roman">Ph.D. Student</font>}} \n \n
+[https://milab.westlake.edu.cn/ Machine Intellignece Lab (MiLAB)] \n
+[https://www.westlake.edu.cn/academics/School_of_Engineering/About/Overview/ School of Engineering] \n
+[https://www.westlake.edu.cn/ Westlake University] \n \n
+Email: [zhangmin@westlake.edu.cn zhangmin@westlake.edu.cn]; [zhangmin.milab@gmail.com zhangmin.milab@gmail.com] \n
+Office: Room 517, School of Engineering (No.2 Building), Yunqi Campus of Westlake University, Hangzhou 310012, China 
+{{[<a href="https://scholar.google.com/citations?hl=en&user=5dlWxdUAAAAJ" target="_blank"><span style="color:purple">Google Scholar</span></a>] [<a href="https://dblp.uni-trier.de/pers/hd/z/Zhang_0017:Min" target="_blank"><span style="color:purple">DBLP</span></a>] [<a href="https://github.com/remiMZ" target="_blank"><span style="color:purple">Github</span></a>]}}
+
+{{<td valign="top" width="236"><a href="http://milab.westlake.edu.cn/" target="_blank"><img height="70" src="./images/milab.png" width="230" border="0"></a></td>}}
+{{<td valign="top" width="58"><a href="https://www.westlake.edu.cn/" target="_blank"><img height="70" src="./images/logo.png" width="58" border="0"></a></td>}}
+~~~
+
+== Biography
+Currently, I am a joint Ph.D. student of [https://www.westlake.edu.cn/ Westlake University] and [http://www.zju.edu.cn/mainm.htm Zhejiang University]
+    and a member of [https://milab.westlake.edu.cn/ Machine Intellignece Lab (MiLAB)] in Westlake University, 
+    advised by Dr.[https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml Donglin Wang]. 
+
+{{<span class="norm"><br class="style1"></span>I received my M.Sc. degree in <a href="http://dzytx.tjnu.edu.cn/" target="_blank"> the Department of Electronics & Communication Engineering</a> (ECE) in June 2019 from <a href="http://www.tjnu.edu.cn/" target="_blank">Tianjin Normal University </a> (TJNU)</a>.
+<span class="norm"><br class="style1"></span>I received my B.Sc. degree in School of Engineering</a> in June 2016 from <a href="http://www.hdxy.edu.cn/" target="_blank">College Qingdao Agricultural University (HDXY)</a>.
+}}
+
+== News
+- *{{<font face="Times New Roman">[12/2020]</font>}}*: One paper on \"Metric-based Few-shot Learning\" is accepted to [https://aaai.org/Conferences/AAAI-21/ AAAI 2021].
+- *{{<font face="Times New Roman">[09/2020]</font>}}*: I become a Ph.D. student in [https://www.westlake.edu.cn/ Westlake University].
+- *{{<font face="Times New Roman">[03/2020]</font>}}*: The code of our [https://github.com/remiMZ/PMAML-ECAI20 PMAML (ECAI'20)] is released.
+- *{{<font face="Times New Roman">[01/2020]</font>}}*: One paper on \"Meta-based Few-shot Learning\" is accepted to [http://ecai2020.eu/ ECAI 2020].
+- *{{<font face="Times New Roman">[07/2017]</font>}}*: Invited talk at the [https://link.springer.com/conference/csps International Conference in Communications, Signal Processing, and Systems] (Harbin, China) on \"Advances in Data Mining\".
+
+== Research Interests
+My research interests include *Machine Learning* and *Computer Vision*. Especially in, \n
+- Meta Learning  
+- Few-shot Learning
+- Robot Learning
+
+== Publications 
+
+~~~
+{}{img_left}{./papers/AAAI2021_AGAM.png}{WSFG}{220}{110}
+- Siteng Huang, *Min Zhang*, Yachen Kang, Donglin Wang. \n
+[https://arxiv.org/abs/2009.04724 Attributes-Guided and Pure-Visual Attention Alignment for Few-Shot Recognition.] \n
+In: /Proceedings of the 35th AAAI Conference on Artificial Intelligence/ *(AAAI'21)*, 2021. \n
+\[[./papers/AAAI2021-AGAM.pdf download="AAAI2021-AGAM.pdf Paper]\] 
+\[[https://github.com/bighuang624/AGAM Code]\] 
+\[[https://kyonhuang.top/publication/attributes-guided-attention-module Details of paper]\]
+~~~
+
+~~~
+{}{img_left}{./papers/ECAI2020_PMAML.png}{WSFG}{220}{110}
+- *Min Zhang*, Donglin Wang, Sibo Gai. \n
+[https://ecai2020.eu/papers/1264_paper.pdf Knowledge Distillation for Model-agnostic Meta-learning.] \n
+In: /European Conference on Artificial Intelligence/ *(ECAI'20)*, 2020. \n
+\[[./papers/ECAI2020_PMAML.pdf download="ECAI2020_PMAML.pdf" Paper] 
+\[[https://github.com/remiMZ/PMAML-ECAI20.git Code]\] 
+~~~
+
+~~~
+{}{img_left}{./papers/IOT2018_TDL.png}{WSFG}{220}{110}
+- Wei Wang*, *Min Zhang*, Li Zhang. \n
+[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8450045 Classification of Data Stream in Sensor Network With Small Samples.] \n
+In: /IEEE Internet of Things Journal/ *(IOT'18)*, 2018. [* Advisor] \n
+\[[./papers/IOT2018_TDL.pdf download="IOT2018_TDL.pdf Paper]\] 
+~~~
+
+~~~
+{}{img_left}{./papers/TETCI2018_TAE.png}{WSFG}{220}{110}
+- Wei Wang*, *Min Zhang*. \n
+[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8522024 Tensor Deep Learning Model for Heterogeneous Data Fusion in Internet of Things.] \n
+In: /IEEE Transactions on Emerging Topics in Computational Intelligence/ *(TETCI'18)*, 2018. [* Advisor]. \n
+\[[./papers/TETCI2018_TAE.pdf download="TETCI2018_TAE.pdf" Paper]\] 
+~~~
+
+~~~
+{}{img_left}{./papers/Access2018_BCWCs.png}{WSFG}{220}{110}
+- Yang Li, *Min Zhang*. \n
+[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8528430 Study on a Cylindrical Sensor Network for Intelligent Health Monitoring and Prognosis.] \n
+In: /IEEE Access/ *(Access'18)*, 2018. \n
+\[[./papers/Access2018_BCWCs.pdf download="Access2018_BCWCs.pdf" Paper]\] 
+~~~
+
+~~~
+{}{img_left}{./papers/Access2018_online.png}{WSFG}{220}{110}
+- Yuliang Li, *Min Zhang*, Wei Wang. \n
+[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8550701 Online Real-Time Analysis of Data Streams Based on an Incremental High-Order Deep Learning Model.] \n
+In: /IEEE Access/ *(Access'18)*, 2018. \n
+\[[./papers/Access2018_online.pdf download="Access2018_online.pdf Paper]\] 
+~~~
+
+~~~
+{}{img_left}{./papers/CSPS2018_DATAFLOW.png}{WSFG}{220}{110}
+- Wei Wang*, *Min Zhang*. \n
+[https://link.springer.com/chapter/10.1007/978-981-13-6504-1_36 Research on Data Flow Partitioning Based on Dynamic Feature Extraction.] \n
+In: /International Conference in Communications, Signal Processing, and Systems/ *(CSPS'18)*, 2018. [* Advisor]. \n
+\[[./papers/CSPS2018_DATAFLOW.pdf download="CSPS2018_DATAFLOW.pdf Paper]\] 
+~~~
+
+~~~
+{}{img_left}{./papers/IVPAI2018_TDM.png}{WSFG}{220}{110}
+- *Min Zhang*, Wei Wang. \n
+[https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10836/1083621/Detection-of-embryo-eggs-based-on-tensor-depth-calculation-model/10.1117/12.2513864.short?SSO=1 Detection 
+of Embryo Eggs Based on Tensor Depth Calculation Model.] \n
+In: /International conference on Image, Video Processing and Artificial Intelligence/ *(IVPAI'18)*, 2018. \n
+\[[./papers/IVPAI2018_TDM.pdf download="IVPAI2018_TDM.pdf" Paper]\] 
+~~~
+
+~~~
+{}{img_left}{./papers/EURASIP2017_KPCA.png}{WSFG}{220}{110}
+- Wei Wang*, *Min Zhang*, Dan Wang, Yu Jiang. \n
+[https://kopernio.com/viewer?doi=10.1186/s13638-017-0931-2&route=6 Kernel PCA Feature Extraction and the SVM Classification Algorithm for Multiple-status through-wall Human Being Detection.] \n
+In: /EURASIP Journal on Wireless Communications & Networking/ *(EURASIP'17)*, 2017. [* Advisor]*. \n
+\[[./papers/EURASIP2017_KPCA.pdf download="EURASIP2017_KPCA.pdf" Paper]\] 
+~~~
+
+~~~
+{}{img_left}{./papers/CSPS2017_PCA.png}{WSFG}{220}{110}
+- Wei Wang*, *Min Zhang*, Dan Wang, Yu Jiang, Yuliang Li, Hongda Wu. \n
+[https://link.springer.com/chapter/10.1007/978-981-10-6571-2_271 Anomaly Detection Based on Kernel Principal Component and Principal Component Analysis.] \n
+In: /International Conference in Communications, Signal Processing, and Systems/ *(CSPS'17)*, 2017. [* Advisor]. \n
+\[[./papers/CSPS2017_PCA.pdf download="CSPS2017_PCA.pdf" Paper]\] 
+~~~
+
+== Awards \& Honors
+- Second-Class Freshmen Scholarship of Westlake University, 2020
+- Outstanding Graduate of Tianjin Normal University, 2019
+- Excellent Academic Scholarship of Tianjin Normal University, 2016-2019
+
+== Correspondence
+Email: [zhangmin@westlake.edu.cn zhangmin@westlake.edu.cn]; [zhangmin.milab@gmail.com zhangmin.milab@gmail.com] \n
+Office:
+Room 517, School of Engineering (No.2 Building), Yunqi Campus of Westlake University. \n
+Address:
+Min Zhang, Machine Intelligence Lab (MiLAB), Westlake University, Yunqi Campus, 18 Shilongshan Road, \n
+Cloud Town, Xihu District, Hangzhou 310012, China \n
+*{{<font face="华文楷体">(杭州市西湖区云栖小镇石龙山街18号，西湖大学云栖校区，机器智能实验室，310012.)</font>}}*
+
